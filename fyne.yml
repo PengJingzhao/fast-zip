@@ -1,0 +1,3 @@
+name: FastZip                  # 应用名称
+icon: "jvm.png"             # 应用图标，放在项目根目录
+version: "1.0.0"             # 版本号
